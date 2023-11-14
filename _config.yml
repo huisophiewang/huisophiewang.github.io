@@ -67,8 +67,8 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 
-contact_note: >
-  Email is the best way to contact me to discuss research and potential collaborations.
+contact_note: 
+ 
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -162,7 +162,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: preprints.bib
   bibliography_template: bib
 
   replace_strings: true
